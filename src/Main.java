@@ -86,6 +86,8 @@ public class Main {
         System.out.println("  java Main count --text <text> [--words]");
     }
 
+
+    // https://www.baeldung.com/sha-256-hashing-java
     private static String bytesToHex(byte[] hash) {
         StringBuilder hexString = new StringBuilder(2 * hash.length);
         for (int i = 0; i < hash.length; i++) {
