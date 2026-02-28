@@ -1,3 +1,17 @@
+**Coursework Project Repository**
+
+Course: Advanced Programming  
+University: University of Vermont   
+Term: Fall 2025  
+Tech Stack: Java  
+Status: Completed  
+
+---
+
+<br><br><br>
+
+
+
 # CLI-kkolesn1
 
 A small Java command line tool that does a few simple text operations.
